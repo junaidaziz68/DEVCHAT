@@ -1,0 +1,4 @@
+{
+"mongoURI":"mongodb+srv://junaid_dev:Kashmir%40123@cluster0.uraz1w9.mongodb.net/?retryWrites=true&w=majority",
+"jwtSecret": "mysecrettoken"
+}
