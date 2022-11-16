@@ -12,14 +12,20 @@
   "author": "junaid aziz",
   "license": "ISC",
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.13",
     "axios": "^1.1.3",
     "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.2.2",
     "config": "^3.3.7",
     "express": "^4.18.1",
     "express-validator": "^6.14.2",
     "gravatar": "^1.8.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.5.2",
+    "normalize-url": "^8.0.0",
+    "react-bootstrap": "^2.6.0",
     "request": "^2.88.2"
   },
   "devDependencies": {
