@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DevChat/static/css/main.0a8e9914.css",
+    "main.js": "/DevChat/static/js/main.30f3b916.js",
+    "static/media/showcase.jpg": "/DevChat/static/media/showcase.33c7a31be966664a6454.jpg",
+    "index.html": "/DevChat/index.html",
+    "main.0a8e9914.css.map": "/DevChat/static/css/main.0a8e9914.css.map",
+    "main.30f3b916.js.map": "/DevChat/static/js/main.30f3b916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a8e9914.css",
+    "static/js/main.30f3b916.js"
+  ]
+}
